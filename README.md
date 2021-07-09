@@ -1,15 +1,20 @@
-### Hi there 👋
-Estou estudando programação>
-<Atualmente aluno na  #hiring  Acadamy>
-<Apaixonado por desafios>
-🌱 I’m currently learning  HTML, css e JavaScrip- 
-🤔 I’m looking for help with  JavaScript
-Atualmente trabalho nos Correios
-Buscando transição de carreira
-Tenho 39 anos, moro atualmente em Guaraciaba do Norte-CE
-<!--
-**JuniorBragaShiftF5/JuniorBragaShiftF5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>😃Olá Pessoal</h2>
+<h2>😉Sobre mim:</h2>
+<nav>
+<li>🤓💻Estudando programação</li>
+<li>📖📚Estou estudando  HTML, css e JavaScrip</li>
+<li>👨🏾‍💻Atualmente aluno na Hiring  Acadamy</li>
+<li>🧮Apaixonado por desafios</li>
+<li>🤔 Precisando de ajuda em JavaScript</li>
+<li>📍Atualmente trabalho nos Correios</li>
+<li>💻📲Buscando transição de carreira</li>
+<li>🙋🏾‍♂‍Tenho 39 anos, moro atualmente em Guaraciaba do Norte-CE</li>
+</nav>
 
+
+
+
+<!--**JuniorBragaShiftF5/JuniorBragaShiftF5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
